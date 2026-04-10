@@ -21,3 +21,6 @@ npm run dev
 ## Notes
 - Used in-memory storage (no database)
 - Focused on clean structure and working APIs
+
+YOUTUBE:
+https://youtu.be/JPxAFNc3wpc
